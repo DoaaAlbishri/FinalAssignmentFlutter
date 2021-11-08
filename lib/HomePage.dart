@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Layout App"),
+        title: Text("Rainbow Layout"),
 
       ),
       floatingActionButton: FloatingActionButton(
